@@ -1,0 +1,26 @@
+h1{
+	color: red;
+	background-color : rgb(46, 204, 113);
+}
+h2 {
+	color: blue;
+	background : grey
+}
+h3{
+	color:yellow;
+	background-color : red;
+}
+body{
+	background: rgb(236, 240, 241);
+}  
+
+p {
+	color:red;
+	background-color: rgb(241, 196, 15);
+	
+}
+b {
+	background-color:#f39c12;
+	color:#1abc9c
+	font-size:64px;
+}
